@@ -1,0 +1,16 @@
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.exe
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.deps.json
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.runtimeconfig.json
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.runtimeconfig.dev.json
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.dll
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ref\ConverterOfSizeOfData.dll
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\bin\Debug\net5.0\ConverterOfSizeOfData.pdb
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.csproj.AssemblyReference.cache
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.AssemblyInfoInputs.cache
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.AssemblyInfo.cs
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.csproj.CoreCompileInputs.cache
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.dll
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ref\ConverterOfSizeOfData.dll
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.pdb
+C:\Users\Пользватель\source\repos\ConverterOfSizeOfData\ConverterOfSizeOfData\obj\Debug\net5.0\ConverterOfSizeOfData.genruntimeconfig.cache
